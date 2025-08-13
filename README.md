@@ -7,15 +7,12 @@ A powerful command-line interface for managing and interacting with documents th
 
 ## 🌟 Features
 
-- **Interactive Document Management**: Seamlessly interact with documents using natural language
-- **AI-Powered Analysis**: Leverage Claude AI for document analysis and manipulation
-- **Smart Document Operations**: 
-  - Read document contents
-  - Edit documents
-  - Format documents to Markdown
-  - Generate summaries
-- **Command Auto-completion**: Tab completion for all commands and document IDs
-- **Extensible Architecture**: Built on MCP for easy addition of new capabilities
+- **Natural Language Commands** — Manage and query documents.
+- **Claude AI Integration** — Deep analysis, summarization, and smart manipulation powered by Anthropic’s Claude.  
+- **Versatile Document Tools** — Read, edit, reformat to Markdown, and auto-summarize in one place.  
+- **Smart CLI Experience** — Command and document ID auto-completion for faster workflows.  
+- **Built for Extension** — MCP-based architecture makes adding new tools and formats simple.  
+
 
 ## 🚀 Quick Start
 
